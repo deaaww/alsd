@@ -1,3 +1,4 @@
+//Percobaan 1
 public class mahasiswa08 {
         
     String nama;
@@ -36,6 +37,7 @@ public class mahasiswa08 {
         }
     }
 
+//Percobaan 3
     public mahasiswa08() {
     }
 
